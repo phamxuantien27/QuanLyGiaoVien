@@ -87,12 +87,11 @@ namespace WindowsFormsApp1
             cmbHocVi.DisplayMember = "Ma_HocVi";
             cmbHocVi.ValueMember = "";
         }
-        // lấy hết giáo viên lưu vào 1 list
+
         public List<DTO_GiaoVien> loadGiaoVien()
         {
             return giaoVien.load_GV();
         }
-        // check mã giáo viên
         bool checkMaGV()
         {
             bool kq = true;

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "WindowsFormsApp1\GUI.csproj", "{469C7EC9-9943-4CCE-8E5A-CAEEC1BB51C1}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2", "..\Setup2\Setup2.vdproj", "{B68E234E-5BD7-45B7-90E9-4F89CBD20A04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,8 @@ Global
 		{469C7EC9-9943-4CCE-8E5A-CAEEC1BB51C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{469C7EC9-9943-4CCE-8E5A-CAEEC1BB51C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{469C7EC9-9943-4CCE-8E5A-CAEEC1BB51C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B68E234E-5BD7-45B7-90E9-4F89CBD20A04}.Debug|Any CPU.ActiveCfg = Debug
+		{B68E234E-5BD7-45B7-90E9-4F89CBD20A04}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
